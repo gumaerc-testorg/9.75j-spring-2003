@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course assignments, including class
+  presentations, a cross-cultural inquiry paper, and the final paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

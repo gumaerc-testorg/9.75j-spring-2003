@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The readings in this section provide the foundation of this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
