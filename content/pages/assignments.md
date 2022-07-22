@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on course assignments, including class
+  presentations, a cross-cultural inquiry paper, and the final paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8be73ef4-a37c-294b-08de-f0b1030a2b27
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The readings in this section provide the foundation of this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7f459f64-df86-8bcd-0d7b-0299991fab3f
 ---
